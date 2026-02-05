@@ -1,5 +1,5 @@
 <h1 align="center">
-🚀 Projetos JavaScript – Aula 03
+ JavaScript – Aula 03
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
 </h1>
 
