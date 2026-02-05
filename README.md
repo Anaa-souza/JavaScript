@@ -10,7 +10,7 @@
 
 ## ✨ Sobre o Projeto
 
-Este repositório reúne **atividades práticas em JavaScript**, desenvolvidas durante a **Aula 03**, com o objetivo de aprender os conceitos fundamentais da linguagem e sua integração com o HTML.
+Este repositório reúne **atividades práticas em JavaScript**, desenvolvidas durante a aula, com o objetivo de aprender os conceitos fundamentais da linguagem e sua integração com o HTML.
 
 Os exercícios exploram a **interação com o usuário**, **manipulação de formulários** e **processamento de dados**, sendo ideais para quem está iniciando no desenvolvimento web 💻💛
 
