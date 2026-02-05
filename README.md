@@ -1,10 +1,10 @@
 <h1 align="center">
- JavaScript – Aula 03
+ Projetos JavaScript
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-blue?style=for-the-badge"/>
 </p>
