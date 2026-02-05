@@ -39,15 +39,6 @@ Criar uma base sólida para evoluir em aplicações web mais completas.
 
 ---
 
-## 📂 Estrutura do Projeto
-
-📁 projeto-javascript-aula-03
-│
-├── index.html
-├── aula_03_1_atv_js01.html
-├── aula_03_2.html
-├── aula_03_3.html
-└── aula_03_4.html
 
 
 ---
