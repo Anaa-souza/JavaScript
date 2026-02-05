@@ -14,11 +14,11 @@
 <h2 align="center">📘 Sobre o Projeto</h2>
 
 <p align="center">
-Este repositório reúne <strong>atividades práticas em JavaScript</strong>, desenvolvidas durante a <strong>Aula 03</strong>, com foco no aprendizado dos <strong>conceitos fundamentais da linguagem</strong> e sua integração com o <strong>HTML</strong>.
+Este repositório reúne <strong>atividades práticas em JavaScript</strong>, desenvolvidas durante a aula, com foco no aprendizado dos <strong>conceitos fundamentais da linguagem</strong> e sua integração com o <strong>HTML</strong>.
 </p>
 
 <p align="center">
-Os exercícios exploram a interação com o usuário, a manipulação de formulários e o processamento de dados, sendo ideais para quem está iniciando no <strong>desenvolvimento web</strong> 💻💛
+Os exercícios exploram a interação com o usuário, a manipulação de formulários e o processamento de dados, sendo ideais para quem está iniciando no <strong>desenvolvimento web</strong> 💻
 </p>
 
 ---
