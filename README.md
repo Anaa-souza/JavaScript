@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Sobre o Projeto
+##  Sobre o Projeto
 
 Este repositório reúne **atividades práticas em JavaScript**, desenvolvidas durante a aula, com o objetivo de aprender os conceitos fundamentais da linguagem e sua integração com o HTML.
 
@@ -26,7 +26,7 @@ Os exercícios exploram a **interação com o usuário**, **manipulação de for
 
 ---
 
-## 🌈 Objetivo
+##  Objetivo
 
 📌 **Praticar lógica de programação**  
 Aplicar conceitos como variáveis, condições, funções e operações matemáticas.
