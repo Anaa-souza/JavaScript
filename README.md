@@ -1,4 +1,7 @@
-# 🚀 Projetos JavaScript – Aula 03 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/>
+<h1 align="center">
+🚀 Projetos JavaScript – Aula 03
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript"/>
@@ -8,50 +11,58 @@
 
 ---
 
-## 📘 Sobre o Projeto
-
-Este repositório reúne **atividades práticas em JavaScript**, desenvolvidas durante a **Aula 03**, com foco no aprendizado dos **conceitos fundamentais da linguagem** e sua integração com o **HTML**.
-
-Os exercícios exploram a **interação com o usuário**, a **manipulação de formulários** e o **processamento de dados**, sendo ideais para quem está iniciando no **desenvolvimento web** 💻💛  
-
-Cada atividade foi pensada para reforçar a lógica de programação de forma simples, didática e interativa.
-
----
-
-## 🛠️ Tecnologias Utilizadas
+<h2 align="center">📘 Sobre o Projeto</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
+Este repositório reúne <strong>atividades práticas em JavaScript</strong>, desenvolvidas durante a <strong>Aula 03</strong>, com foco no aprendizado dos <strong>conceitos fundamentais da linguagem</strong> e sua integração com o <strong>HTML</strong>.
+</p>
+
+<p align="center">
+Os exercícios exploram a interação com o usuário, a manipulação de formulários e o processamento de dados, sendo ideais para quem está iniciando no <strong>desenvolvimento web</strong> 💻💛
 </p>
 
 ---
 
-## 🎯 Objetivo
+<h2 align="center">🛠️ Tecnologias Utilizadas</h2>
 
-📌 **Praticar lógica de programação**  
-Aplicar conceitos essenciais como variáveis, funções, condições e operações matemáticas.
-
-📌 **Aprender JavaScript básico**  
-Compreender como o JavaScript funciona dentro de páginas HTML, tornando-as dinâmicas e interativas.
-
-📌 **Desenvolver fundamentos para projetos futuros**  
-Criar uma base sólida para evoluir em aplicações web mais completas e organizadas.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+</p>
 
 ---
 
-## 🧩 Explicação das Atividades Desenvolvidas
+<h2 align="center">🎯 Objetivo</h2>
+
+<p align="center">
+📌 <strong>Praticar lógica de programação</strong><br>
+Aplicar conceitos como variáveis, funções, condições e operações matemáticas.
+</p>
+
+<p align="center">
+📌 <strong>Aprender JavaScript básico</strong><br>
+Compreender como o JavaScript funciona dentro do HTML, tornando páginas dinâmicas e interativas.
+</p>
+
+<p align="center">
+📌 <strong>Desenvolver fundamentos para projetos futuros</strong><br>
+Criar uma base sólida para evoluir em aplicações web mais completas e organizadas.
+</p>
+
+---
+
+<h2 align="center">🧩 Explicação das Atividades Desenvolvidas</h2>
 
 ### 🔹 `index.html` — Olá Mundo em JavaScript 🌍
 **Objetivo:**  
-Apresentar o primeiro contato com a linguagem JavaScript.
+Introduzir o primeiro contato com a linguagem JavaScript.
 
 **Descrição:**  
-Exibe uma mensagem simples no navegador utilizando o comando `document.write()`.
+Exibe uma mensagem simples no navegador utilizando `document.write()`.
 
 **Aprendizado:**  
-Introdução à integração entre HTML e JavaScript.
+Integração básica entre HTML e JavaScript.
 
 ---
 
@@ -61,11 +72,11 @@ Capturar o nome do usuário e exibir uma saudação personalizada.
 
 **Descrição:**  
 - Entrada de dados com `window.prompt()`  
-- Armazenamento do valor em uma variável  
-- Exibição da mensagem personalizada com `document.write()`
+- Uso de variáveis  
+- Exibição de mensagem personalizada  
 
 **Aprendizado:**  
-Uso de variáveis, entrada e saída de dados e interação com o usuário.
+Entrada e saída de dados e interação com o usuário.
 
 ---
 
@@ -74,54 +85,56 @@ Uso de variáveis, entrada e saída de dados e interação com o usuário.
 Trabalhar com formulários HTML e funções JavaScript.
 
 **Descrição:**  
-- Criação de formulário com campos de texto  
-- Leitura dos valores digitados pelo usuário  
+- Formulário com campos de texto  
+- Leitura dos dados digitados  
 - Concatenação de strings  
-- Exibição do resultado utilizando `alert()`
+- Exibição com `alert()`
 
 **Aprendizado:**  
-Manipulação de formulários, criação de funções e tratamento de dados.
+Manipulação de formulários e funções.
 
 ---
 
 ### 🔹 `aula_03_3.html` — Soma de Dois Números ➕
 **Objetivo:**  
-Realizar cálculos matemáticos simples utilizando JavaScript.
+Realizar cálculos matemáticos simples.
 
 **Descrição:**  
-- Entrada de dois números com `prompt()`  
-- Conversão de texto para número com `parseInt()`  
-- Soma dos valores e exibição do resultado
+- Entrada de dados com `prompt()`  
+- Conversão de tipos com `parseInt()`  
+- Soma e exibição do resultado  
 
 **Aprendizado:**  
-Conversão de tipos e operações matemáticas básicas.
+Operações matemáticas e conversão de dados.
 
 ---
 
 ### 🔹 `aula_03_4.html` — Máquina de Sucos Flexível 🥤🍓🍌🍍
 **Objetivo:**  
-Criar uma aplicação interativa onde o usuário monta um suco personalizado.
+Criar uma aplicação interativa de personalização.
 
 **Descrição:**  
 - Seleção múltipla de frutas  
-- Escolha do líquido base (água ou leite)  
-- Opção de açúcar utilizando checkbox  
-- Validação para garantir que ao menos uma fruta seja selecionada  
-- Geração de mensagem dinâmica com base nas escolhas do usuário
+- Escolha do líquido base  
+- Opção de açúcar  
+- Validação de dados  
+- Mensagem dinâmica personalizada  
 
 **Aprendizado:**  
-Manipulação avançada de formulários, uso de arrays, funções, validação de dados e criação de mensagens personalizadas.
+Manipulação avançada de formulários, arrays, funções e validação.
 
 ---
 
-## 💙 Autora
+<h2 align="center">💙 Autora</h2>
 
-👩‍💻 **Ana Carolina**  
-📚 Estudante de Desenvolvimento Web  
-🟨 JavaScript | 🟧 HTML | 🧠 Lógica de Programação  
+<p align="center">
+👩‍💻 <strong>Ana Carolina</strong><br>
+📚 Estudante de Desenvolvimento Web<br>
+🟨 JavaScript | 🟧 HTML | 🧠 Lógica de Programação
+</p>
 
 ---
 
 <p align="center">
-💻 <strong>Nunca pare de aprender. Cada linha de código é um passo à frente!</strong> 
+✨ <strong>Nunca pare de aprender. Cada linha de código é um passo à frente!</strong> ✨
 </p>
