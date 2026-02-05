@@ -8,38 +8,36 @@
 
 ---
 
-##  Sobre o Projeto
+## 📘 Sobre o Projeto
 
-Este repositório reúne **atividades práticas em JavaScript**, desenvolvidas durante a aula, com o objetivo de aprender os conceitos fundamentais da linguagem e sua integração com o HTML.
+Este repositório reúne **atividades práticas em JavaScript**, desenvolvidas durante a **Aula 03**, com foco no aprendizado dos **conceitos fundamentais da linguagem** e sua integração com o **HTML**.
 
-Os exercícios exploram a **interação com o usuário**, **manipulação de formulários** e **processamento de dados**, sendo ideais para quem está iniciando no desenvolvimento web 💻💛
+Os exercícios exploram a **interação com o usuário**, a **manipulação de formulários** e o **processamento de dados**, sendo ideais para quem está iniciando no **desenvolvimento web** 💻💛  
+
+Cada atividade foi pensada para reforçar a lógica de programação de forma simples, didática e interativa.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
 </p>
 
 ---
 
-##  Objetivo
+## 🎯 Objetivo
 
 📌 **Praticar lógica de programação**  
-Aplicar conceitos como variáveis, condições, funções e operações matemáticas.
+Aplicar conceitos essenciais como variáveis, funções, condições e operações matemáticas.
 
 📌 **Aprender JavaScript básico**  
-Entender como o JavaScript funciona dentro do HTML, tornando páginas interativas.
+Compreender como o JavaScript funciona dentro de páginas HTML, tornando-as dinâmicas e interativas.
 
 📌 **Desenvolver fundamentos para projetos futuros**  
-Criar uma base sólida para evoluir em aplicações web mais completas.
-
----
-
-
+Criar uma base sólida para evoluir em aplicações web mais completas e organizadas.
 
 ---
 
@@ -47,13 +45,13 @@ Criar uma base sólida para evoluir em aplicações web mais completas.
 
 ### 🔹 `index.html` — Olá Mundo em JavaScript 🌍
 **Objetivo:**  
-Apresentar o primeiro contato com JavaScript.
+Apresentar o primeiro contato com a linguagem JavaScript.
 
 **Descrição:**  
-Utiliza o comando `document.write()` para exibir uma mensagem simples no navegador.
+Exibe uma mensagem simples no navegador utilizando o comando `document.write()`.
 
 **Aprendizado:**  
-Integração básica entre HTML e JavaScript.
+Introdução à integração entre HTML e JavaScript.
 
 ---
 
@@ -64,10 +62,10 @@ Capturar o nome do usuário e exibir uma saudação personalizada.
 **Descrição:**  
 - Entrada de dados com `window.prompt()`  
 - Armazenamento do valor em uma variável  
-- Exibição da mensagem com `document.write()`
+- Exibição da mensagem personalizada com `document.write()`
 
 **Aprendizado:**  
-Uso de variáveis e interação direta com o usuário.
+Uso de variáveis, entrada e saída de dados e interação com o usuário.
 
 ---
 
@@ -77,22 +75,22 @@ Trabalhar com formulários HTML e funções JavaScript.
 
 **Descrição:**  
 - Criação de formulário com campos de texto  
-- Leitura dos valores digitados  
+- Leitura dos valores digitados pelo usuário  
 - Concatenação de strings  
-- Exibição do resultado com `alert()`
+- Exibição do resultado utilizando `alert()`
 
 **Aprendizado:**  
-Manipulação de formulários e criação de funções.
+Manipulação de formulários, criação de funções e tratamento de dados.
 
 ---
 
 ### 🔹 `aula_03_3.html` — Soma de Dois Números ➕
 **Objetivo:**  
-Realizar cálculos simples utilizando JavaScript.
+Realizar cálculos matemáticos simples utilizando JavaScript.
 
 **Descrição:**  
 - Entrada de dois números com `prompt()`  
-- Conversão de texto para número usando `parseInt()`  
+- Conversão de texto para número com `parseInt()`  
 - Soma dos valores e exibição do resultado
 
 **Aprendizado:**  
@@ -107,14 +105,14 @@ Criar uma aplicação interativa onde o usuário monta um suco personalizado.
 **Descrição:**  
 - Seleção múltipla de frutas  
 - Escolha do líquido base (água ou leite)  
-- Opção de açúcar com checkbox  
-- Validação para garantir que ao menos uma fruta seja escolhida  
-- Geração de mensagem dinâmica com base nas escolhas
+- Opção de açúcar utilizando checkbox  
+- Validação para garantir que ao menos uma fruta seja selecionada  
+- Geração de mensagem dinâmica com base nas escolhas do usuário
 
 **Aprendizado:**  
 Manipulação avançada de formulários, uso de arrays, funções, validação de dados e criação de mensagens personalizadas.
 
-
+---
 
 ## 💙 Autora
 
@@ -125,5 +123,5 @@ Manipulação avançada de formulários, uso de arrays, funções, validação d
 ---
 
 <p align="center">
-✨ <strong>Nunca pare de aprender. Cada linha de código é um passo à frente!</strong> ✨
+💻 <strong>Nunca pare de aprender. Cada linha de código é um passo à frente!</strong> 
 </p>
